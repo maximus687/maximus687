@@ -2,10 +2,10 @@
 
 ## I'm a Java Full Stack Developer - SPRING Framework | ANGULAR | REST | MySQL | ORM | SPRING CLOUD | AWS CLOUD | MICROSERVICES
 
-- 🌱 I’m currently learning Fundamentals OF Cloud-AWS 🤣
-- 👯 I’m looking to collaborate with other Java Backend Developer-Spring Framework
+- 🌱 I’m currently learning Fundamentals OF Cloud-AWS
+- 👯 I’m looking to collaborate with other Java Backend Developers-Spring Framework
 - 🥅 2021 Goals: Contribute to Open Source projects
-- ⚡ Fun fact: I love to go on rides to discover unknown territories / also an automobile enthusiast
+- ⚡ Hobbies: I love to go on rides to discover unknown territories / also an automobile enthusiast
 
 ### Connect with me:
 
